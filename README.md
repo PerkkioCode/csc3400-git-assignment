@@ -1,3 +1,4 @@
+# CSC3400 Calculator Project
 My Software Engineering Project
 Connor Perkkio 1306469
 
