@@ -1,4 +1,8 @@
-# CSC3400 Calculator Project
+
+# CSC3400 Calculator Project ## Project Status
+Completed
+## Version
+v1.0.0
 My Software Engineering Project
 Connor Perkkio 1306469
 
