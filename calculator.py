@@ -21,11 +21,8 @@ def divide(a, b):
     if (type(a) != int and type(a) != float) or (type(b) != int and type(b) != float):
         return "Error: inputs must be numbers"
     if b == 0:
-<<<<<<< HEAD
         return "Error: cannot divide by zero (b is 0)"
-=======
         return "Error: division by zero"
->>>>>>> e0b4033015e7d4f2a08474ee5ec5c67908e4eecc
     return a / b
 
 
